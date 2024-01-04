@@ -1,0 +1,34 @@
+[
+    {
+        "Name":"John",
+        "Age":25,
+        "Location":"New York",
+        "Mobile":"555-1234",
+        "Email":"john@email.com",
+        "Gender":"Male"
+    },
+    {
+        "Name":"Alice",
+        "Age":30,
+        "Location":"Los Angeles",
+        "Mobile":"555-5678",
+        "Email":"alice@email.com",
+        "Gender":"Female"
+    },
+    {
+        "Name":"Bob",
+        "Age":22,
+        "Location":"Chicago",
+        "Mobile":"555-9876",
+        "Email":"bob@email.com",
+        "Gender":"Male"
+    },
+    {
+        "Name":"Eva",
+        "Age":28,
+        "Location":"San Francisco",
+        "Mobile":"555-4321",
+        "Email":"eva@email.com",
+        "Gender":"Female"
+    }
+]
